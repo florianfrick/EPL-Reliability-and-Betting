@@ -6,7 +6,7 @@ outcomes. Historical match data, betting odds, and player statistics
 were analyzed to evaluate the accuracy of money line betting odds,
 identify potential oversights, and determine the most impactful
 player metrics. First, a logistic regression model using only betting
-odds achieved an accuracy of 56%, but failed to predict ties. Next, a
+odds achieved an accuracy of 57%, but failed to predict ties. Next, a
 Random Forest Classifier trained on all available player statistics
 achieved a lower overall accuracy of 47%, but successfully predicted
 some ties. To improve performance on player statistics, we
